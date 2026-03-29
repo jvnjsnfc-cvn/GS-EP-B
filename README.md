@@ -29,7 +29,7 @@ When I'm not debugging circuits, I explore traditional Indian folk art. I enjoy 
 ---
 
 ### 📈 GitHub Stats
-![Gaurab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurab-Sarkkar&show_icons=true&theme=radical)
+![Jvnjsnfc-cvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvnjsnfc-cvn&show_icons=true&theme=radical)
 
 ---
 
