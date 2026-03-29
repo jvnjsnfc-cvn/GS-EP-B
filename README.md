@@ -3,8 +3,9 @@
 I am a passionate student and aspiring robotics engineer currently balancing my Class 12 CBSE studies with hands-on electronics and AI projects. I love building systems that bridge the gap between code and the physical world.
 
 ## 🤖 Current Focus: Project N.1.S.H.A.
-**N1SHA** (*Neuro One Sophisticated Humanoid Assistant*) is my flagship project—a humanoid assistant designed for interactive technical showcases. I am currently developing its motor control logic and sensory integration.
-
+**N1SHA** (*Neuro One Sophisticated Humanoid Assistant*) is my flagship project—a humanoid assistant designed for interactive technical showcases. I am currently developing its virtual-real worl interaction system.
+This is to automate all you digital life, like, you just say it and presto, your digital work is done.
+It's first priority is to shift from keyboard-mouse interactions or touchscreen interactions to just speak-response interaction. 'I hope you get the point...'
 ---
 
 ### 🛠️ Technical Toolkit
