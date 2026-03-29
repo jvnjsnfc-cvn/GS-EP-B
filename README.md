@@ -11,7 +11,6 @@ I am a passionate student and aspiring robotics engineer currently balancing my 
 * **Languages:** Python, C++ (Arduino), Java (Processing)
 * **Hardware:** Arduino Uno/Nano, ESP32, Servo Motors, Ultrasonic Sensors, L293D Drivers
 * **Software & Tools:** MediaPipe (Hand Tracking), Computer Vision, GitHub, VS Code
-
 ---
 
 ### 🚀 Ongoing Projects
@@ -37,4 +36,4 @@ When I'm not debugging circuits, I explore traditional Indian folk art. I enjoy 
 ### 📫 Connect with me
 * 🔭 I’m currently working on **N1SHA**
 * 🌱 I’m currently learning **Advanced Robotics & JEE Curriculum**
-* 💬 Ask me about **Arduino troubleshooting or Folk Art styles!**
+* 💬 Ask me about **Python and Arduino troubleshooting or any kind of external or internal design of any robot you are building** I will try to give you the best solution of your queries.
